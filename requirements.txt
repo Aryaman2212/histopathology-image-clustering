@@ -1,0 +1,10 @@
+numpy
+pandas
+h5py
+scikit-learn
+hdbscan
+umap-learn
+matplotlib
+seaborn
+networkx
+python-louvain
